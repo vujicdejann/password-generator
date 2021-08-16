@@ -1,3 +1,5 @@
+__author__ = "Vujic Dejan"
+
 from tkinter import *
 import random
 import string
